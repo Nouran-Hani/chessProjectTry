@@ -7,4 +7,4 @@ public class q3 {
         int num_mins= sc.nextInt();
         int num_hours=num_mins/60;
         int remainder=num_mins%60;
-        System.out.println("this is equivalent to "+num_hours+"hours + " +remainder+" minutes");}}
+        System.out.println("this is equivalent to "+num_hours+" hours + " +remainder+" minutes");}}
